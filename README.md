@@ -77,7 +77,7 @@ Joblib
 
 ▶️ Run the Project
 Clone Repository
-git clone https://github.com/your-username/Customer-Churn-Prediction.git
+git clone https://github.com/hatagaleankush92-cloud/Customer-Churn-Prediction-using-Machine-Learning/tree/main
 Install Requirements
 pip install -r requirements.txt
 Run Streamlit App
